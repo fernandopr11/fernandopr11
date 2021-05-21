@@ -4,18 +4,15 @@
 
 ``` js
   const fernando = {
+  
+  country: 'Ecuador'
+  area = 'Front End'
   languages: [C++, HTML, JavaScript, CSS, Python, Java ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
-                      
- challenge: "10 DAYS OF JAVASCRIPT"
+  challenge: "10 DAYS OF JAVASCRIPT"
+  
 }
 ```
-
 You cand find me 🌎:
 
 <a href="https://twitter.com/FernandoPauca11">
