@@ -1,4 +1,5 @@
-![Hi (1)](https://user-images.githubusercontent.com/76860968/119157751-1db1b180-ba1b-11eb-9e1b-ed136692f297.png)
+![Diseño sin título](https://user-images.githubusercontent.com/76860968/119158670-163ed800-ba1c-11eb-8274-72b140081cd3.png)
+
 
 :zap: Hi, I’m @fernandopr11
 - 👀 I’m interested in ...
