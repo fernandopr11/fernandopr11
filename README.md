@@ -23,5 +23,5 @@ You cand find me 🌎:
 - [Youtube] (https://www.youtube.com/channel/UCTaw5vwREYavinhOylBz3fg)
 
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fernandopr11&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fernandopr11&show_icons&theme=radical)
    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopr11&theme=blue-green)
