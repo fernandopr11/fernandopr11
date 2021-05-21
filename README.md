@@ -18,9 +18,10 @@
 
 You cand find me 🌎:
 
-- [Twitter] (https://twitter.com/FernandoPauca11)
-- [Facebook] (https://www.facebook.com/fernandojose.paucarrodriguez)
-- [Youtube] (https://www.youtube.com/channel/UCTaw5vwREYavinhOylBz3fg)
+- <a href="https://twitter.com/FernandoPauca11">
+  <img align="left" alt="FernandoPaucar11 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+- 
 
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fernandopr11&show_icons&theme=tokyonight)
