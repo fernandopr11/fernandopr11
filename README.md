@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+'''
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -16,5 +16,6 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+'''
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fernandopr11&show_icons=true)
      ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopr11&theme=blue-green)
