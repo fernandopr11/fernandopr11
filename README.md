@@ -7,9 +7,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ``` js
-const fernando = {
-  pronouns: "he" | "him",
-  code: [C++, HTML, JavaScript, CSS, Python, Java ],
+  const fernando = {
+  languages: [C++, HTML, JavaScript, CSS, Python, Java ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -17,6 +16,7 @@ const fernando = {
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
+                      
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
