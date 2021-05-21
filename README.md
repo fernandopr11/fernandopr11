@@ -1,6 +1,6 @@
 :zap: Hi, I’m @fernandopr11
 
-![Diseño sin título](https://user-images.githubusercontent.com/76860968/119158670-163ed800-ba1c-11eb-8274-72b140081cd3.png)
+![Diseño sin título (1)](https://user-images.githubusercontent.com/76860968/119175693-c36f1b80-ba2f-11eb-8710-f2472c04f0e8.png)
 
 ``` js
   const fernando = {
