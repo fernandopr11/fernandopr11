@@ -7,9 +7,8 @@
   
   country: 'Ecuador'
   area = 'Front End'
-  languages: [C++, HTML, JavaScript, CSS, Python, Java ],
+  languages: [HTML, JavaScript, CSS, Python, Java, PHP ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  challenge: "10 DAYS OF JAVASCRIPT"
   
 }
 ```
